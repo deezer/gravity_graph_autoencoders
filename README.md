@@ -17,6 +17,8 @@ We evaluate all six models on the **three directed link prediction tasks** intro
 
 Our code builds upon Thomas Kipf's [original Tensorflow implementation](https://github.com/tkipf/gae) of standard Graph AE/VAE.
 
+**Note (December 2023):** Kudos to [Claudio Moroni](https://github.com/ClaudMor) for developing a PyTorch implementation of these models, [publicly available here](https://github.com/ClaudMor/gravity_gae_torch_geometric).
+
 <br>
 <p align="center">
   <img height="550" src="graph_visu_cora.png">
